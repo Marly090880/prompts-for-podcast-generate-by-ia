@@ -1,3 +1,9 @@
+
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="300"
+
 # Projeto Podcast Gerado por I.A.s para Educação Corporativa
 
  > ℹ️ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts.
