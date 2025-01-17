@@ -1,8 +1,10 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/Marly090880/prompts-for-podcast-generate-by-ia/blob/main/Podcast_EDUCAI.jpeg"
     width="300"
+/>
+</p>
 
 # Projeto Podcast Gerado por I.A.s para Educação Corporativa
 
